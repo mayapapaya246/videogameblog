@@ -1,0 +1,19 @@
+/*
+
+THIS IS NOT TO BE LINKED TO THE MAIN HTML!!!!
+This is only for a reference for the standards
+that are going to be used on the website!
+
+*/
+.class {
+  font-family: Arial;
+  font-family: sans-serif;
+  background: linear-gradient(red, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  font-family: Arial;
+  color: black;
+}
