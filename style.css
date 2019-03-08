@@ -1,0 +1,13 @@
+body {
+  /* background-image: linear-gradient(#721111,#368e11); */
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+
+h1 {
+  font-family: sans-serif;
+  background: linear-gradient(red, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
